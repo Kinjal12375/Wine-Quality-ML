@@ -77,6 +77,3 @@ The original wine quality score was converted into a binary target:
 - Decision Tree handled non-linear relationships effectively.  
 
 ---
-
-## 👨‍💻 Author
-Kinjal Patel
