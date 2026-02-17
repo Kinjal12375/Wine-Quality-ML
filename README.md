@@ -1,10 +1,10 @@
-# 🍷 Wine Quality ML Mini Project
+#  Wine Quality ML Mini Project
 
 An end-to-end supervised machine learning pipeline for wine quality classification, incorporating exploratory data analysis, feature engineering, model evaluation, and hyperparameter optimization.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 This project aims to predict whether a wine sample is GOOD or BAD based on its physicochemical properties using classification algorithms.
 
 The original wine quality score was converted into a binary target:
@@ -13,7 +13,7 @@ The original wine quality score was converted into a binary target:
 
 ---
 
-## 📊 Dataset Features
+## Dataset Features
 - Fixed Acidity  
 - Volatile Acidity  
 - Citric Acid  
@@ -29,7 +29,7 @@ The original wine quality score was converted into a binary target:
 
 ---
 
-## 🔎 Project Workflow
+## Project Workflow
 - Data Loading & Exploration  
 - Statistical Analysis  
 - Correlation Matrix Analysis  
@@ -43,14 +43,14 @@ The original wine quality score was converted into a binary target:
 
 ---
 
-## 🤖 Models Implemented
+##  Models Implemented
 - Logistic Regression  
 - K-Nearest Neighbors  
 - Decision Tree Classifier  
 
 ---
 
-## 📈 Evaluation Metrics
+## Evaluation Metrics
 - Accuracy  
 - Precision  
 - Recall  
@@ -60,7 +60,7 @@ The original wine quality score was converted into a binary target:
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 - Python  
 - Pandas  
 - NumPy  
@@ -71,13 +71,13 @@ The original wine quality score was converted into a binary target:
 
 ---
 
-## 🎯 Key Insights
+##  Key Insights
 - Alcohol content shows strong positive correlation with wine quality.  
 - Feature scaling significantly improved KNN performance.  
 - Decision Tree handled non-linear relationships effectively.  
 
 ---
-## 🚀 How to Run
+## How to Run
 
 1. Clone repository  
 2. Install packages: `pip install -r requirements.txt`  
